@@ -10,7 +10,7 @@ Tech Stack:
 - HTML/ CSS/ JS [*Frontend*]
 - Python 3 for [*Backend ML*]
 
-- Libraries Used:
+- Libraries Used:jquery
 
 **Proposed Applications and Uses:**
 -
